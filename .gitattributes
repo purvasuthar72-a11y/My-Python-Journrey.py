@@ -1,2 +1,11 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# My Python Journey
+
+Hello GitHub! This is my first repository.
+
+## About
+I'm learning Python and testing that VS Code, Git, and GitHub are connected.
+
+## Files
+- `test.py`: my first Python program
